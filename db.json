@@ -1,5 +1,28 @@
 {
-  "users": [
-    
-  ]
+   "employees":[
+      {
+         "id":1,
+         "name":"jv",
+         "contact":"0000",
+         "address":"123 sss",
+         "email":"adfeaf@sdsd",
+         "department":"sadfasf"
+      },
+      {
+         "id":2,
+         "name":"asad",
+         "contact":"0000",
+         "address":"123 sss",
+         "email":"adfeaf@sdsd",
+         "department":"sadfasf"
+      },
+      {
+         "id":3,
+         "name":"2q4we",
+         "contact":"0000",
+         "address":"123 sss",
+         "email":"adfeaf@sdsd",
+         "department":"sadfasf"
+      }
+   ]
 }
